@@ -1,0 +1,20 @@
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\zadacha15\zadacha15\bin\Debug\zadacha15.exe.config
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\zadacha15\zadacha15\bin\Debug\zadacha15.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\zadacha15\zadacha15\bin\Debug\zadacha15.pdb
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\zadacha15\zadacha15\obj\Debug\zadacha15.csprojAssemblyReference.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\zadacha15\zadacha15\obj\Debug\zadacha15.Form1.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\zadacha15\zadacha15\obj\Debug\zadacha15.Properties.Resources.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\zadacha15\zadacha15\obj\Debug\zadacha15.csproj.GenerateResource.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\zadacha15\zadacha15\obj\Debug\zadacha15.csproj.CoreCompileInputs.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\zadacha15\zadacha15\obj\Debug\zadacha15.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\zadacha15\zadacha15\obj\Debug\zadacha15.pdb
+D:\комнатная 31кс\zadacha15\zadacha15\bin\Debug\zadacha15.exe.config
+D:\комнатная 31кс\zadacha15\zadacha15\bin\Debug\zadacha15.exe
+D:\комнатная 31кс\zadacha15\zadacha15\bin\Debug\zadacha15.pdb
+D:\комнатная 31кс\zadacha15\zadacha15\obj\Debug\zadacha15.csprojAssemblyReference.cache
+D:\комнатная 31кс\zadacha15\zadacha15\obj\Debug\zadacha15.Form1.resources
+D:\комнатная 31кс\zadacha15\zadacha15\obj\Debug\zadacha15.Properties.Resources.resources
+D:\комнатная 31кс\zadacha15\zadacha15\obj\Debug\zadacha15.csproj.GenerateResource.cache
+D:\комнатная 31кс\zadacha15\zadacha15\obj\Debug\zadacha15.csproj.CoreCompileInputs.cache
+D:\комнатная 31кс\zadacha15\zadacha15\obj\Debug\zadacha15.exe
+D:\комнатная 31кс\zadacha15\zadacha15\obj\Debug\zadacha15.pdb
