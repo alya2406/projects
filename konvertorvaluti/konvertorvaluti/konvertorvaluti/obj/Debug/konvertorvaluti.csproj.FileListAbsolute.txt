@@ -1,0 +1,20 @@
+C:\Users\student\source\repos\Малинин 31КС\konvertorvaluti\konvertorvaluti\bin\Debug\konvertorvaluti.exe.config
+C:\Users\student\source\repos\Малинин 31КС\konvertorvaluti\konvertorvaluti\bin\Debug\konvertorvaluti.exe
+C:\Users\student\source\repos\Малинин 31КС\konvertorvaluti\konvertorvaluti\bin\Debug\konvertorvaluti.pdb
+C:\Users\student\source\repos\Малинин 31КС\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Малинин 31КС\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.Form1.resources
+C:\Users\student\source\repos\Малинин 31КС\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.Properties.Resources.resources
+C:\Users\student\source\repos\Малинин 31КС\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Малинин 31КС\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Малинин 31КС\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.exe
+C:\Users\student\source\repos\Малинин 31КС\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.pdb
+D:\alya\konvertorvaluti\konvertorvaluti\konvertorvaluti\bin\Debug\konvertorvaluti.exe.config
+D:\alya\konvertorvaluti\konvertorvaluti\konvertorvaluti\bin\Debug\konvertorvaluti.exe
+D:\alya\konvertorvaluti\konvertorvaluti\konvertorvaluti\bin\Debug\konvertorvaluti.pdb
+D:\alya\konvertorvaluti\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.csproj.AssemblyReference.cache
+D:\alya\konvertorvaluti\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.Form1.resources
+D:\alya\konvertorvaluti\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.Properties.Resources.resources
+D:\alya\konvertorvaluti\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.csproj.GenerateResource.cache
+D:\alya\konvertorvaluti\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.csproj.CoreCompileInputs.cache
+D:\alya\konvertorvaluti\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.exe
+D:\alya\konvertorvaluti\konvertorvaluti\konvertorvaluti\obj\Debug\konvertorvaluti.pdb
