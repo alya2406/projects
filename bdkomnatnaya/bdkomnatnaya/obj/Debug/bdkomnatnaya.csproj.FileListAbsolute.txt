@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\bin\Debug\Database1.mdf
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\bin\Debug\Database1_log.ldf
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\bin\Debug\bdkomnatnaya.exe.config
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\bin\Debug\bdkomnatnaya.exe
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\bin\Debug\bdkomnatnaya.pdb
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\obj\Debug\bdkomnatnaya.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\obj\Debug\bdkomnatnaya.Form1.resources
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\obj\Debug\bdkomnatnaya.Properties.Resources.resources
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\obj\Debug\bdkomnatnaya.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\obj\Debug\bdkomnatnaya.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\obj\Debug\bdkomnatnaya.exe
+C:\Users\User\source\repos\bdkomnatnaya\bdkomnatnaya\obj\Debug\bdkomnatnaya.pdb
