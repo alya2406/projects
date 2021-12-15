@@ -1,0 +1,20 @@
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.csprojAssemblyReference.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.Form1.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.Properties.Resources.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.csproj.GenerateResource.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.csproj.CoreCompileInputs.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\BMR_calculator\BMR_calculator\bin\Debug\BMR_calculator.exe.config
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\BMR_calculator\BMR_calculator\bin\Debug\BMR_calculator.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\BMR_calculator\BMR_calculator\bin\Debug\BMR_calculator.pdb
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.pdb
+D:\karpova 31kc\BMR_calculator\BMR_calculator\bin\Debug\BMR_calculator.exe.config
+D:\karpova 31kc\BMR_calculator\BMR_calculator\bin\Debug\BMR_calculator.exe
+D:\karpova 31kc\BMR_calculator\BMR_calculator\bin\Debug\BMR_calculator.pdb
+D:\karpova 31kc\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.csprojAssemblyReference.cache
+D:\karpova 31kc\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.Form1.resources
+D:\karpova 31kc\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.Properties.Resources.resources
+D:\karpova 31kc\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.csproj.GenerateResource.cache
+D:\karpova 31kc\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.csproj.CoreCompileInputs.cache
+D:\karpova 31kc\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.exe
+D:\karpova 31kc\BMR_calculator\BMR_calculator\obj\Debug\BMR_calculator.pdb
