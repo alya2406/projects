@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\inteaktivnayaKartaPogorelov\inteaktivnayaKartaPogorelov\bin\Debug\inteaktivnayaKartaPogorelov.exe.config
+C:\Users\student\source\repos\inteaktivnayaKartaPogorelov\inteaktivnayaKartaPogorelov\bin\Debug\inteaktivnayaKartaPogorelov.exe
+C:\Users\student\source\repos\inteaktivnayaKartaPogorelov\inteaktivnayaKartaPogorelov\bin\Debug\inteaktivnayaKartaPogorelov.pdb
+C:\Users\student\source\repos\inteaktivnayaKartaPogorelov\inteaktivnayaKartaPogorelov\obj\Debug\inteaktivnayaKartaPogorelov.csprojAssemblyReference.cache
+C:\Users\student\source\repos\inteaktivnayaKartaPogorelov\inteaktivnayaKartaPogorelov\obj\Debug\inteaktivnayaKartaPogorelov.Form1.resources
+C:\Users\student\source\repos\inteaktivnayaKartaPogorelov\inteaktivnayaKartaPogorelov\obj\Debug\inteaktivnayaKartaPogorelov.Properties.Resources.resources
+C:\Users\student\source\repos\inteaktivnayaKartaPogorelov\inteaktivnayaKartaPogorelov\obj\Debug\inteaktivnayaKartaPogorelov.csproj.GenerateResource.cache
+C:\Users\student\source\repos\inteaktivnayaKartaPogorelov\inteaktivnayaKartaPogorelov\obj\Debug\inteaktivnayaKartaPogorelov.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\inteaktivnayaKartaPogorelov\inteaktivnayaKartaPogorelov\obj\Debug\inteaktivnayaKartaPogorelov.exe
+C:\Users\student\source\repos\inteaktivnayaKartaPogorelov\inteaktivnayaKartaPogorelov\obj\Debug\inteaktivnayaKartaPogorelov.pdb
