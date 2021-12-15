@@ -1,0 +1,10 @@
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\bmi_CALCULATOR\bmi_CALCULATOR\bin\Debug\bmi_CALCULATOR.exe.config
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\bmi_CALCULATOR\bmi_CALCULATOR\bin\Debug\bmi_CALCULATOR.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\bmi_CALCULATOR\bmi_CALCULATOR\bin\Debug\bmi_CALCULATOR.pdb
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.csprojAssemblyReference.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.Form1.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.Properties.Resources.resources
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.csproj.GenerateResource.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.csproj.CoreCompileInputs.cache
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.exe
+\\Pc-43-53-01\лабораторные\31КС\АнтошкоЩербина\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.pdb

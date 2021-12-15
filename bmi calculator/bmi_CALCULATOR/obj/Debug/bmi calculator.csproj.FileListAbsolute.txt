@@ -1,0 +1,10 @@
+D:\karpova 31kc\bmi_CALCULATOR\bmi_CALCULATOR\bin\Debug\bmi_CALCULATOR.exe.config
+D:\karpova 31kc\bmi_CALCULATOR\bmi_CALCULATOR\bin\Debug\bmi_CALCULATOR.exe
+D:\karpova 31kc\bmi_CALCULATOR\bmi_CALCULATOR\bin\Debug\bmi_CALCULATOR.pdb
+D:\karpova 31kc\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi calculator.csprojAssemblyReference.cache
+D:\karpova 31kc\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.Form1.resources
+D:\karpova 31kc\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.Properties.Resources.resources
+D:\karpova 31kc\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi calculator.csproj.GenerateResource.cache
+D:\karpova 31kc\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi calculator.csproj.CoreCompileInputs.cache
+D:\karpova 31kc\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.exe
+D:\karpova 31kc\bmi_CALCULATOR\bmi_CALCULATOR\obj\Debug\bmi_CALCULATOR.pdb
