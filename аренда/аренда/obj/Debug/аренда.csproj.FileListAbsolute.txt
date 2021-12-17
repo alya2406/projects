@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\аренда\аренда\bin\Debug\аренда.exe.config
+C:\Users\student\source\repos\аренда\аренда\bin\Debug\аренда.exe
+C:\Users\student\source\repos\аренда\аренда\bin\Debug\аренда.pdb
+C:\Users\student\source\repos\аренда\аренда\obj\Debug\аренда.csprojAssemblyReference.cache
+C:\Users\student\source\repos\аренда\аренда\obj\Debug\аренда.Form1.resources
+C:\Users\student\source\repos\аренда\аренда\obj\Debug\аренда.Properties.Resources.resources
+C:\Users\student\source\repos\аренда\аренда\obj\Debug\аренда.csproj.GenerateResource.cache
+C:\Users\student\source\repos\аренда\аренда\obj\Debug\аренда.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\аренда\аренда\obj\Debug\аренда.exe
+C:\Users\student\source\repos\аренда\аренда\obj\Debug\аренда.pdb
