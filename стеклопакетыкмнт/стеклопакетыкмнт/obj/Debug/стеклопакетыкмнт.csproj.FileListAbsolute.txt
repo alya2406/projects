@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\стеклопакетыкмнт\стеклопакетыкмнт\bin\Debug\стеклопакетыкмнт.exe.config
+C:\Users\student\source\repos\стеклопакетыкмнт\стеклопакетыкмнт\bin\Debug\стеклопакетыкмнт.exe
+C:\Users\student\source\repos\стеклопакетыкмнт\стеклопакетыкмнт\bin\Debug\стеклопакетыкмнт.pdb
+C:\Users\student\source\repos\стеклопакетыкмнт\стеклопакетыкмнт\obj\Debug\стеклопакетыкмнт.csprojAssemblyReference.cache
+C:\Users\student\source\repos\стеклопакетыкмнт\стеклопакетыкмнт\obj\Debug\стеклопакетыкмнт.Form1.resources
+C:\Users\student\source\repos\стеклопакетыкмнт\стеклопакетыкмнт\obj\Debug\стеклопакетыкмнт.Properties.Resources.resources
+C:\Users\student\source\repos\стеклопакетыкмнт\стеклопакетыкмнт\obj\Debug\стеклопакетыкмнт.csproj.GenerateResource.cache
+C:\Users\student\source\repos\стеклопакетыкмнт\стеклопакетыкмнт\obj\Debug\стеклопакетыкмнт.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\стеклопакетыкмнт\стеклопакетыкмнт\obj\Debug\стеклопакетыкмнт.exe
+C:\Users\student\source\repos\стеклопакетыкмнт\стеклопакетыкмнт\obj\Debug\стеклопакетыкмнт.pdb
